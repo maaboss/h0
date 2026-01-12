@@ -9,4 +9,4 @@ public class HelloWorld {
     }
 }
 
-The file Hello.java is compiled using javac into HelloWorld.java which contains Java bytecode.
+UNfortunately the compilation did not work since my new device does no have have the java jdk installed. It would take a while to. But the code ran on VS code and gave the correct output.
